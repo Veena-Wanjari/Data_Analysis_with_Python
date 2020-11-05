@@ -62,39 +62,39 @@ Important steps:
    
    a) Importing Data
     	
-            * Import of Data (csv file) using Pandas
-            * Understanding the data
+   	* Import of Data (csv file) using Pandas
+        * Understanding the data
       
    b) Data Wrangling
    
-	    * Analyzing Dataset values
-	    * Finding an replacing NaN values
+	* Analyzing Dataset values
+	* Finding an replacing NaN values
       
    c) Exploratory Data Analysis
    
-            * Using functions to obtain value count of houses that fall under certain conditions
-	    * Plotting data to check for the presence of outliers
-	    * Understanding correlation in the data
+        * Using functions to obtain value count of houses that fall under certain conditions
+	* Plotting data to check for the presence of outliers
+	* Understanding correlation in the data
       
    d) Model Development
   
-	    * Scaling the data
-	    * Fitting a Regression Model
-	    * Predictions using a list of features
-	    * Obtaining R^2 value and analysing this score
+	* Scaling the data
+	* Fitting a Regression Model
+	* Predictions using a list of features
+	* Obtaining R^2 value and analysing this score
       
    e) Model Refinement and Evaluation
    
-	    * Splitting the data into training and testing data
-	    * Using Ridge regression to introduce a regularization parameter
-	    * Fitting a regression model
-	    * Making predictions using data
-	    * Obtaining a score to check the performance of model
+	* Splitting the data into training and testing data
+	* Using Ridge regression to introduce a regularization parameter
+	* Fitting a regression model
+	* Making predictions using data
+	* Obtaining a score to check the performance of model
       
    f) Refining the model by 
   
-            * performing a polynomial transform on the data
-	    * Analyzing the model performance
+        * performing a polynomial transform on the data
+	* Analyzing the model performance
       
       
  
