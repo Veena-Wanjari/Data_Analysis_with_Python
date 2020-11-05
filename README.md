@@ -59,10 +59,11 @@ Important steps:
    Libraries Used : Pandas, Matplotlib, Seaborn, NumPy, sklearn
    
    Tasks Performed on the dataset:
+   
    a) Importing Data
     	
-      * Import of Data (csv file) using Pandas
-      * Understanding the data
+            * Import of Data (csv file) using Pandas
+            * Understanding the data
       
    b) Data Wrangling
    
@@ -71,7 +72,7 @@ Important steps:
       
    c) Exploratory Data Analysis
    
-      * Using functions to obtain value count of houses that fall under certain conditions
+            * Using functions to obtain value count of houses that fall under certain conditions
 	    * Plotting data to check for the presence of outliers
 	    * Understanding correlation in the data
       
@@ -92,7 +93,7 @@ Important steps:
       
    f) Refining the model by 
   
-      * performing a polynomial transform on the data
+            * performing a polynomial transform on the data
 	    * Analyzing the model performance
       
       
